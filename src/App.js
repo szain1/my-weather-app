@@ -337,7 +337,7 @@ function App() {
                   <div className="astro-item">
                     <BsMoonStars />
                     <div>
-                      <h3>Moonset</h3>
+                      <h3>Moonsett</h3>
                       <p>{weatherData.forecast.forecastday[0].astro.moonset}</p>
                     </div>
                   </div>
