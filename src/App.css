@@ -138,7 +138,7 @@ body {
   background-color: var(--card-bg);
   border-radius: 8px;
   padding: 2rem;
-  box-shadow: 0 4px 6px rgba(180, 157, 157, 0.1);
+  box-shadow: 0 4px 6px rgba(99, 93, 93, 0.1);
   margin-top: 1rem;
 }
 
