@@ -123,7 +123,7 @@ body {
 }
 
 .search-button:disabled {
-  background-color: rgb(225, 250, 253);
+  background-color: rgba(123, 189, 196, 1);
   cursor: not-allowed;
 }
 
