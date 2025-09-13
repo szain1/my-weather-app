@@ -53,7 +53,7 @@ function App() {
       1000: <WiDaySunny />, // Sunny
       1003: <WiDayCloudyHigh />, // Partly 
       1006: <WiCloudy />, // Cloudy
-      1009: <WiCloudy />, // Overcast
+      1009: <WiCloudy />, // Over
       1030: <WiFog />, // Mist
       1063: <WiRain />, // Patchy rain possible
       1066: <WiSnow />, // Patchy snow possible
