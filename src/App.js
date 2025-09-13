@@ -59,7 +59,7 @@ function App() {
       1066: <WiSnow />, // Patchy snow possible
       1069: <WiSnow />, // Patchy sleet possible
       1072: <WiRain />, // Patchy freezing drizzle 
-      1087: <WiThunderstorm />, // Thundery outbreaks possible
+      1087: <WiThunderstorm />, // Thundery outbreaks 
       1114: <WiSnow />, // Blowing snow
       1117: <WiSnow />, // Blizzard
       1135: <WiFog />, // Fog
