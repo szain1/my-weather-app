@@ -52,7 +52,7 @@ function App() {
     const weatherIcons = {
       1000: <WiDaySunny />, // Sunny
       1003: <WiDayCloudyHigh />, // 
-      1006: <WiCloudy />, // Clou
+      1006: <WiCloudy />, // Clouff
       1009: <WiCloudy />, // Over
       1030: <WiFog />, // Mist
       1063: <WiRain />, // Patchy rain possible
