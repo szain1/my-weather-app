@@ -50,7 +50,7 @@ function App() {
 
   const getWeatherIcon = (code) => {
     const weatherIcons = {
-      1000: <WiDaySunny />, // Sunny
+      1000: <WiDaySunny />, // Sun
       1003: <WiDayCloudyHigh />, // 
       1006: <WiCloudy />, // Clouff
       1009: <WiCloudy />, // Over
