@@ -55,7 +55,7 @@ function App() {
       1006: <WiCloudy />, // Clouff
       1009: <WiCloudy />, // Over
       1030: <WiFog />, // Mist
-      1063: <WiRain />, // Patchy rain poss
+      1063: <WiRain />, // Patchy rain po
       1066: <WiSnow />, // Patchy snow po
       1069: <WiSnow />, // Patchy sleet possib
       1072: <WiRain />, // Patchy freezing d
