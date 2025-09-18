@@ -67,7 +67,7 @@ function App() {
       1150: <WiRain />, // Patchy light dri
       1153: <WiRain />, // Light drizzle
       1168: <WiRain />, // Freezing drizzle
-      1171: <WiRain />, // Heavy freezing driz
+      1171: <WiRain />, // Heavy freezing dr
       1180: <WiRain />, // Patchy light rain
       1183: <WiRain />, // Light rain
       1186: <WiRain />, // Moderate rain at times
