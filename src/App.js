@@ -64,7 +64,7 @@ function App() {
       1117: <WiSnow />, // Blizzar
       1135: <WiFog />, // Fog
       1147: <WiFog />, // Freezing fog
-      1150: <WiRain />, // Patchy light drizzle
+      1150: <WiRain />, // Patchy light dri
       1153: <WiRain />, // Light drizzle
       1168: <WiRain />, // Freezing drizzle
       1171: <WiRain />, // Heavy freezing driz
